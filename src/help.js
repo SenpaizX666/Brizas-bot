@@ -1,6 +1,6 @@
 const help = (prefix) => {
-	return `💎 Comandos do BrizasBot 💎  
-🔰 Principais Comandos 🔰 
+	return `💸 Comandos do Senpai.zx 💸 
+🎯 Principais Comandos 🎯 
 
 Comando: '${prefix}sticker' ou '${prefix}stiker'
 Função: converter imagem / gif / vídeo em adesivo
@@ -25,7 +25,7 @@ Função: imagens aleatórias de meme [english]
 Comando: '${prefix}memeindo'
 Função: imagens aleatórias de meme [indo]
 
-🔰 Comandos +18 🔰
+🔞 Comandos +18 🔞
 
 ATENÇÃO: Os servidores estão instaveis então caso não envie, mande o comando novamente
 
@@ -67,7 +67,7 @@ Como Usar: Basta enviar o comando
 
 Obs: o comando .loli e .nsfwloli .shota foram removidos devido a o servidor nao estar funcionando
 
-🔰 Comandos de texto 🔰 
+📎 Comandos de texto 📎
 
 ATENÇÃO: Os servidores estão instaveis então caso não envie, mande o comando novamente
 
@@ -178,7 +178,7 @@ Comando:'${prefix}dwater'
 Função: converte o texto em imagem com estilo dropwater
 Como Usar:'${prefix}dropwater [pt1]'
 
-🔰 Outros Comandos 🔰 
+✅ Outros Comandos ✅ 
 
 Comando: '${prefix}gimage'
 Função: Pesquisa no google imagens
@@ -227,7 +227,7 @@ Função: substituir prefixo
 Como Usar: '${prefix}setprefix [text|optional]' 
 Exemplo: '${prefix}setprefix ?'
 
-🔰 Comandos de Grupos 🔰 
+⚡ Comandos de Grupos ⚡ 
 
 Comandos: '${prefix}welcome'
 Função: Ativa o modo boas-vindas do grupo
